@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lethal Company BepInEx Installer", "Fixer\Lethal Company BepInEx Installer.csproj", "{CE14525F-0601-4CD6-B7DF-4DF69E161893}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE14525F-0601-4CD6-B7DF-4DF69E161893}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE14525F-0601-4CD6-B7DF-4DF69E161893}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE14525F-0601-4CD6-B7DF-4DF69E161893}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE14525F-0601-4CD6-B7DF-4DF69E161893}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B78393A3-10E7-48EF-BF8F-304DFEAD80D9}
+	EndGlobalSection
+EndGlobal
