@@ -11,9 +11,9 @@ git clone https://github.com/official-notfishvr/Lethal-Company-BepInEx-Installer
 cd Lethal-Company-BepInEx-Installer
 ```
 
-### Option 2: Download the dll
+### Option 2: Download the exe
 
-For a quick setup, you can download the dll directly from the [releases page]().
+For a quick setup, you can download the exe directly from the [releases page](https://github.com/official-notfishvr/Lethal-Company-BepInEx-Installer/releases/download/releases/Lethal-Company-BepInEx-Installer.exe).
 
 ## Features
 
