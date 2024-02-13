@@ -4,6 +4,8 @@ This Is A BepInEx Mod Installer For Lethal Company
 
 ## Installation Guide
 
+[Video How To Use](https://www.youtube.com/watch?v=GxQfGRopxvI)
+
 ### Option 1: Clone the Repository
 
 ```bash
